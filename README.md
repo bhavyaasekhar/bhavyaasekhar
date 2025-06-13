@@ -8,7 +8,7 @@
 
 ## 📌 Projects
 
-### 🔹 [Statistical Data Analyzer](https://github.com/bhavyaasekhar/statistical_data_analyzer)
+### 🔹 [Statistical Data Analyzer](https://github.com/bhavyaasekhar/statistical-data-analyzer)
 A command-line Python tool that uses only NumPy to:
 - Calculate Mean, Median, Mode
 - Variance & Standard Deviation
