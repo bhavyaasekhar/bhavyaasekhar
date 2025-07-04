@@ -1,8 +1,23 @@
+<p align="center">
+  <img src="https://github.com/bhavyaasekhar/bhavyaasekhar/blob/main/banner.png" alt="Bhavya Badabagni Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Bhavya Badabagni
 
 🎓 Aspiring Data Scientist on a self-taught journey  
 💻 Python • NumPy • Pandas • Matplotlib (learning!)  
 📊 Building real-world projects as I learn — one step at a time!
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
@@ -20,17 +35,12 @@ A command-line Python tool that uses only NumPy to:
 ---
 
 ### 🔹 [Sales Analysis Dashboard](https://github.com/bhavyaasekhar/sales_analysis_dashboard)
-A beginner-friendly project analyzing a sales dataset using pandas and basic visualization. Extracted insights include:
+A beginner-friendly project analyzing a sales dataset using pandas and visualization. Extracted insights include:
 - Monthly & Yearly Sales Trends  
 - Top Products, Cities, and Customers  
-- Region-wise & Category-wise analysis  
+- Region-wise & Category-wise performance
 
-📊 Built using: `pandas`, `pandas.plot()`  
-🖼️ Output Snapshots:
-
-![Monthly Sales](https://github.com/bhavyaasekhar/sales_analysis_dashboard/blob/main/images/Figure_1.png)
-![Top Products](https://github.com/bhavyaasekhar/sales_analysis_dashboard/blob/main/images/Figure_2.png)
-![Sales by Region](https://github.com/bhavyaasekhar/sales_analysis_dashboard/blob/main/images/Figure_3.png)
+> 📊 A stepping stone into the world of exploratory data analysis with real-world data.
 
 ---
 
