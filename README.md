@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/bhavyaasekhar/bhavyaasekhar/blob/main/banner.png" alt="Bhavya Badabagni Banner" width="100%">
-</p>
 
 # 👋 Hi, I'm Bhavya Badabagni
 
