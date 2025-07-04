@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bhavya Badabagni
 
 🎓 Aspiring Data Scientist on a self-taught journey  
-💻 Python • NumPy • Pandas (starting soon!)  
+💻 Python • NumPy • Pandas • Matplotlib (learning!)  
 📊 Building real-world projects as I learn — one step at a time!
 
 ---
@@ -19,17 +19,32 @@ A command-line Python tool that uses only NumPy to:
 
 ---
 
+### 🔹 [Sales Analysis Dashboard](https://github.com/bhavyaasekhar/sales_analysis_dashboard)
+A beginner-friendly project analyzing a sales dataset using pandas and basic visualization. Extracted insights include:
+- Monthly & Yearly Sales Trends  
+- Top Products, Cities, and Customers  
+- Region-wise & Category-wise analysis  
+
+📊 Built using: `pandas`, `pandas.plot()`  
+🖼️ Output Snapshots:
+
+![Monthly Sales](https://github.com/bhavyaasekhar/sales_analysis_dashboard/blob/main/images/Figure_1.png)
+![Top Products](https://github.com/bhavyaasekhar/sales_analysis_dashboard/blob/main/images/Figure_2.png)
+![Sales by Region](https://github.com/bhavyaasekhar/sales_analysis_dashboard/blob/main/images/Figure_3.png)
+
+---
+
 ## 🧭 Learning Roadmap + Project Journey
 
-| Skill | Status | Project |
-|-------|--------|---------|
-| NumPy | ✅ Completed | Statistical Data Analyzer |
-| Pandas | ⏳ Starting Monday | *To be added* |
-| Matplotlib | 🔜 | *Coming soon* |
-| Scikit-Learn | 🔜 | *Coming soon* |
-| Final Portfolio Website | 🛠️ In Progress | *This GitHub + Live site* |
+| Skill          | Status           | Project                         |
+|----------------|------------------|----------------------------------|
+| NumPy          | ✅ Completed      | Statistical Data Analyzer       |
+| Pandas         | ✅ Completed      | Sales Analysis Dashboard        |
+| Matplotlib     | ⏳ In Progress    | *(used in sales plots)*         |
+| Scikit-Learn   | 🔜                | *Coming soon*                   |
+| Final Portfolio Website | 🛠️ In Progress | *This GitHub + Live site*  |
 
-> 🚀 I’ll be adding **projects** and updating my profile regularly as I learn each topic!
+> 🚀 I’m building projects for **every core concept** I learn — follow along for updates!
 
 ---
 
@@ -40,4 +55,4 @@ A command-line Python tool that uses only NumPy to:
 
 ---
 
-*Built with ❤️ by Bhavya — follow along my data science journey!*
+*Built with ❤️ by Bhavya — learning by doing, one project at a time!*
